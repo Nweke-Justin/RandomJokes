@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+button{
+    font-size: 25px;
+}
+#jokebtn{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#jokes{
+    height: 80vh;
+    width: 95vw;
+    margin: auto;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: 10px;
+    border-style: groove;
+    border-color: grey;
+}
